@@ -74,7 +74,7 @@ footer {
   margin-right: 5%;
 }
 
-@media (min-width: 800px) {
+@media (min-width: 1200px) {
   header {
   display: flex;
   flex-direction: row;
@@ -94,11 +94,6 @@ footer {
   summary {
     margin-left: 200px;
     margin-right: 200px;
-  }
-  
-  blockquote {
-    margin-left: 500px;
-    margin-right: 500px;
   }
   
   #tribute-info {
